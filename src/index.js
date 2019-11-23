@@ -11,13 +11,6 @@ import firebase from "firebase";
 import "firebase/firestore";
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCZJYOmkORjkpZBZ_WBUI31kSfAHPBkyFg",
-  authDomain: "chat-app-8fc51.firebaseapp.com",
-  databaseURL: "https://chat-app-8fc51.firebaseio.com",
-  projectId: "chat-app-8fc51",
-  storageBucket: "chat-app-8fc51.appspot.com",
-  messagingSenderId: "668255518149",
-  appId: "1:668255518149:web:a4eb8b0cb01f32db909fac"
 });
 
 const routing = (
